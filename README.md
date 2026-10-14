@@ -12,21 +12,17 @@ B.Tech graduate in Artificial Intelligence and Machine Learning, interested in d
 - **Databases:** MySQL
 - **Tools:** Jupyter Notebook, Git, GitHub
 
-## 📊 Featured Projects
+## 📊 Featured Data Analytics Projects
 
-### Customer Shopping Behavior Analysis
-Analyzed customer shopping patterns using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+### 1. Customer Shopping Behavior Analysis
+- Analyzed customer shopping trends using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+- Explored purchasing patterns, spending behavior, product categories, and payment preferences.
+- [View Project](https://github.com/prudeeshwar3363/Customer-Shopping-Behavior-Analysis)
 
-**Focus areas:** Product category demand, spending patterns, customer demographics, payment methods, and purchase frequency.
-
-[View Project](https://github.com/prudeeshwar3363/Customer-Shopping-Behavior-Analysis)
-
-### E-commerce Sales & Profitability Analytics
-Used MySQL, Python, and Power BI to analyze sales trends, customer profitability, regional performance, and discount patterns.
-
-**Focus areas:** SQL analysis, data import, KPI reporting, and interactive business dashboards.
-
-[View Project](https://github.com/prudeeshwar3363/Ecommerce-Sales-Analytics)
+### 2. Ecommerce Sales & Profitability Analytics
+- Analyzed sales, profitability, regional performance, customer behavior, and discount impact.
+- Used SQL, Python, and Power BI to explore business performance.
+- [View Project](https://github.com/prudeeshwar3363/Ecommerce-Sales-Analytics)
 
 ## 🎯 Career Goal
 
