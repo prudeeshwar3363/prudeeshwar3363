@@ -35,7 +35,7 @@ Seeking an entry-level Data Analyst opportunity to apply analytical skills, solv
 ## 🤝 Connect With Me
 
 - GitHub: [@prudeeshwar3363](https://github.com/prudeeshwar3363)
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: [Prudveeswar Mannuru](https://www.linkedin.com/in/prudveeswar-mannuru-1ba8a728a)
 
 
 <!--
